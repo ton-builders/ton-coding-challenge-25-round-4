@@ -45,7 +45,7 @@ getgems的测试网地址：https://testnet.getgems.io/
 ### 你的答案：
 
 1. NFT 转账交易的浏览器交易URL = https://testnet.tonviewer.com/transaction/0046d00b9db75e9c53797569c9a15828ae54854beb23ed9ad2e84d2240ab62c0
-2. NFT 挂在 getgems 售卖的URL =  https://testnet.tonviewer.com/transaction/b255ee90ee297e31868fcb551475a6a46e1ce431e48992c814bcef83cdc2c22e
+2. NFT 挂在 getgems 售卖的URL =  https://testnet.getgems.io/collection/EQAcZKxkgIhKF-vA0CY0vXy1MiXJUFZMJNbpTdxB-qI7S7uQ/EQDXL6AW3BvDcGGu36Mic_6OeCYLHQM-MSENHMz7B8s3KEKF
 
 
 ---
