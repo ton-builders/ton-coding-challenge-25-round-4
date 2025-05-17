@@ -29,6 +29,7 @@ https://t.me/TON_HongKong
 1. 转账交易的浏览器交易URL = https://testnet.tonviewer.com/transaction/478752546627f5dd9ea8ab65c8f368d30ddb9246106f1a9178879439c0d49c63
 
 （使用 Tolk 部署Jetton 会有加分）
+https://verifier.ton.org/ 无法上传 tolk 文件，怎么知道我是用 tolk 部署的
 
 ---
 
@@ -45,6 +46,6 @@ getgems的测试网地址：https://testnet.getgems.io/
 ### 你的答案：
 
 1. NFT 转账交易的浏览器交易URL = https://testnet.tonviewer.com/transaction/6a3cdac6c32724b3b78d9cd02188af434fc17a793f7959e007457704d664a7c5
-2. NFT 挂在 getgems 售卖的URL = ?
+2. NFT 挂在 getgems 售卖的URL = https://testnet.getgems.io/collection/EQDsmc6PD7HAWBpxHpxz_hjztxKWovDbDOdiCSAS2qzjmUd9/EQDzK-t1MjGBfL9ZcRfGuGACS9SPWDgm0Gjcm6aituaxEJTv
 
 ---
