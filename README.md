@@ -13,8 +13,8 @@ https://t.me/TON_HongKong
 课件地址：https://ton-org.notion.site/IV-Jetton-NFT-1e35274bd2cf80648f32d9157647451d
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = @notpolis
+2. 你的主网 TON 钱包地址 = UQDT8Com4pTB4KQb61VAAdSwMDEKrFjavTE-2Qw6KgdLsFS_
 
 
 ## 任务 1：在 TON 测试网部署一个 Jetton 并转账
@@ -27,7 +27,7 @@ https://t.me/TON_HongKong
 
 ### 你的答案：
 
-1. 转账交易的浏览器交易URL =  ?
+1. 转账交易的浏览器交易URL =  https://testnet.tonviewer.com/transaction/639a98d1c087120064ce442930b18c4566d4675f2b47272fff6fb9c925291196
 
 （使用 Tolk 部署Jetton 会有加分）
 
@@ -46,8 +46,8 @@ getgems的测试网地址：https://testnet.getgems.io/
 
 ### 你的答案：
 
-1. NFT 转账交易的浏览器交易URL =  ?
-2. NFT 挂在 getgems 售卖的URL =  ?
+1. NFT 转账交易的浏览器交易URL =  https://testnet.tonviewer.com/transaction/a2e535aaabcf1e70a2b562d0af2fb1bfd766bbe4dafac54d732247f2b469c041
+2. NFT 挂在 getgems 售卖的URL =  https://testnet.getgems.io/nft/EQC6k2Ci7I3LbZB_SxgfRXSFBrGhOZ3ROH--mtCSsFgAW8rU
 
 
 ---
